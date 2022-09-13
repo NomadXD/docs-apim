@@ -56,7 +56,7 @@ Use `kubectl describe pod` to find the root cause. Allocate more resources if yo
 - Adapter management server - 9843
 - Envoy admin port - 9000
 - Adapter debug port - 6060
-- Adapter xDS port 18000
+- Adapter xDS port - 18000
 - Enforcer admin port - 9001
 
 ### What are the different deployment patterns available for WSO2 Choreo Connect?
